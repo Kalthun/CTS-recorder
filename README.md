@@ -41,3 +41,7 @@ nbstripout --install
 ┃ ┗ ● N
 ┗ ● errors.txt
 ```
+
+## TODOs
+
+- [ ] setup error.txt logging
