@@ -14,6 +14,10 @@ env\Scripts\activate
 pip install ...
 ```
 
+```
+nbstripout --install
+```
+
 ## Output Structure
 
 **NOTE**: Add Fall/NonFall dir after recordings

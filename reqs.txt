@@ -8,3 +8,4 @@ pydirectinput
 pyautogui
 pyperclip
 keyboard
+nbstripout
