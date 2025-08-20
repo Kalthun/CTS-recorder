@@ -1,0 +1,10 @@
+jupyter
+google-auth
+gspread
+gspread-dataframe
+tabulate
+pygetwindow
+pydirectinput
+pyautogui
+pyperclip
+keyboard
