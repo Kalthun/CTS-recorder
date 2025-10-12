@@ -45,3 +45,4 @@ nbstripout --install
 ## TODOs
 
 - [ ] setup error.txt logging
+- [ ] make opening folder its own function
