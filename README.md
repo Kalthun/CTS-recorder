@@ -46,3 +46,6 @@ nbstripout --install
 
 - [ ] setup error.txt logging
 - [ ] make opening folder its own function
+- [ ] make better small functions
+- [ ] temp doesn't change unless change
+- [ ] better commenting and documentation
